@@ -1,0 +1,300 @@
+﻿{
+  "gta": {
+    "id": "gta",
+    "title": "حساب GTA 5 Steam",
+    "price": 750,
+    "image": "./images/GTA5Banner.png",
+    "shortDescription": "ابدأ رحلتك في لوس سانتوس",
+    "fullDescription": "انغمس في عالم لوس سانتوس المترامي الأطراف! عش حياة الجريمة والمغامرات التي لا تنتهي مع ثلاثة شخصيات فريدة. نفّذ عمليات سطو جريئة، تسابق في شوارع المدينة، أو استكشف عالم GTA Online المليء باللاعبين والتحديات. هذا الحساب يمنحك صلاحيات كاملة على <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong> لتصنع أسطورتك الخاصة في عالم GTA 5.",
+    "badges": [ "Bestseller" ],
+    "platform": "steam",
+    "related": [ "minecraft", "rust", "mafia" ],
+    "specs": "<h3>متطلبات تشغيل Grand Theft Auto V</h3><ul><li><strong>نظام التشغيل:</strong> Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1</li><li><strong>المعالج:</strong> Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz</li><li><strong>الذاكرة العشوائية (RAM):</strong> 4 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)</li><li><strong>مساحة تخزين:</strong> 72 GB</li></ul><hr><ul><li><strong>نظام التشغيل:</strong> Windows 10 64 Bit</li><li><strong>المعالج:</strong> Intel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs)</li><li><strong>الذاكرة العشوائية (RAM):</strong> 8 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> NVIDIA GTX 660 2GB / AMD HD 7870 2GB</li><li><strong>مساحة تخزين:</strong> 72 GB</li></ul>"
+  },
+  "minecraft": {
+    "id": "minecraft",
+    "title": "حساب Minecraft",
+    "price": 340,
+    "image": "./images/minecraft.png",
+    "shortDescription": "أطلق العنان لإبداعك",
+    "fullDescription": "أطلق العنان لإبداعك في عالم لا نهائي من المكعبات! ابنِ قلاعاً شامخة، استكشف كهوفاً غامضة، وحارب الوحوش في الليل. سواء كنت تفضل البقاء على قيد الحياة بمفردك أو التعاون مع أصدقائك، فإن هذا الحساب الرسمي من <img src='./images/microsoft.png' class='platform-icon-description' alt='Microsoft Icon'> <strong>Microsoft</strong> يمنحك صلاحيات كاملة لتشكيل عالمك كما تتخيل. المغامرة تنتظرك في كل زاوية!",
+    "badges": [ "Special" ],
+    "platform": "microsoft",
+    "stock": 3,
+    "related": [ "gta", "rust", "gamepass" ],
+    "specs": "<h3>متطلبات تشغيل Minecraft: Java Edition</h3><ul><li><strong>نظام التشغيل:</strong> Windows 7 والإصدارات الأحدث</li><li><strong>المعالج:</strong> Intel Core i3-3210 3.2 GHz / AMD A8-7600 APU 3.1 GHz أو ما يعادله</li><li><strong>الذاكرة العشوائية (RAM):</strong> 4 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> Intel HD Graphics 4000 (Ivy Bridge) or AMD Radeon R5 series (Kaveri line) with OpenGL 4.4</li><li><strong>مساحة تخزين:</strong> 1 GB</li></ul><hr><ul><li><strong>نظام التشغيل:</strong> Windows 10 64-bit</li><li><strong>المعالج:</strong> Intel Core i5-4690 3.5GHz / AMD A10-7800 APU 3.5 GHz أو ما يعادله</li><li><strong>الذاكرة العشوائية (RAM):</strong> 8 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> GeForce 700 Series or AMD Radeon Rx 200 Series (excluding integrated chipsets) with OpenGL 4.5</li><li><strong>مساحة تخزين:</strong> 4 GB (SSD موصى به)</li></ul>"
+  },
+  "splitfiction": {
+    "id": "splitfiction",
+    "title": "حساب Split Fiction",
+    "price": 99,
+    "image": "./images/split.png",
+    "shortDescription": "استأجر اللعبة لمدة أسبوعين",
+    "fullDescription": "هل أنت مستعد لتجربة قصة فريدة من نوعها؟ Split Fiction تقدم لك مغامرة سينمائية لا مثيل لها. استأجر اللعبة الآن لمدة أسبوعين، وهي فترة مثالية لإنهاء القصة المذهلة والاستمتاع بكل لحظاتها المشوقة دون الحاجة لشراء اللعبة كاملة. فرصة لا تعوض لتجربة واحدة من أروع الألعاب! <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "platform": "steam",
+    "related": [ "mafia", "gta" ],
+    "specs": "<p>لا توجد مواصفات رسمية لهذه اللعبة بعد.</p>"
+  },
+  "mafia": {
+    "id": "mafia",
+    "title": "Mafia: The Old Country",
+    "price": 49,
+    "image": "./images/mafia.png",
+    "shortDescription": "ابنِ إمبراطوريتك الإجرامية",
+    "fullDescription": "عد بالزمن إلى العصر الذهبي للمافيا. في Mafia: The Old Country، كل قرار قد يكلفك حياتك. ابنِ إمبراطوريتك الإجرامية، وتسلق المراتب في عالم لا يرحم من الولاء والخيانة. هل لديك ما يلزم لتصبح الزعيم؟ عش القصة الملحمية المليئة بالدراما والأكشن الذي يحبس الأنفاس. <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "platform": "steam",
+    "related": [ "gta", "splitfiction" ],
+    "specs": "<p>لا توجد مواصفات رسمية لهذه اللعبة بعد.</p>"
+  },
+  "rust": {
+    "id": "rust",
+    "title": "Rust",
+    "price": 220,
+    "image": "./images/Rust.png",
+    "shortDescription": "الهدف هو البقاء على قيد الحياة",
+    "fullDescription": "الهدف الوحيد في Rust هو البقاء على قيد الحياة. تغلب على الصراعات مثل الجوع والعطش والبرد. قم ببناء نار. قم ببناء مأوى. اقتل الحيوانات من أجل اللحم. احم نفسك من اللاعبين الآخرين، واقتلهم من أجل اللحم. قم بإنشاء تحالفات مع لاعبين آخرين وشكل مدينة. افعل كل ما يتطلبه الأمر للبقاء على قيد الحياة. <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "platform": "steam",
+    "related": [ "minecraft", "gta" ],
+    "specs": "<h3>متطلبات تشغيل Rust</h3><ul><li><strong>نظام التشغيل:</strong> Windows 8.1 64bit</li><li><strong>المعالج:</strong> Intel Core i7-3770 / AMD FX-9590 أو أفضل</li><li><strong>الذاكرة العشوائية (RAM):</strong> 10 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> GTX 670 2GB / AMD R9 280 أو أفضل</li><li><strong>مساحة تخزين:</strong> 25 GB (SSD موصى به)</li></ul><hr><ul><li><strong>نظام التشغيل:</strong> Windows 11 64bit</li><li><strong>المعالج:</strong> Intel Core i7-4790K / AMD Ryzen 5 1600 أو أفضل</li><li><strong>الذاكرة العشوائية (RAM):</strong> 16 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> GTX 980 / AMD R9 Fury أو أفضل</li><li><strong>مساحة تخزين:</strong> 25 GB (SSD موصى به)</li></ul>"
+  },
+  "netflix": {
+    "id": "netflix",
+    "title": "اشتراك نتفليكس",
+    "price": 50,
+    "image": "./images/netflix.png",
+    "shortDescription": "شاهد آلاف الأفلام والمسلسلات",
+    "fullDescription": "استمتع بوصول غير محدود إلى مكتبة ضخمة من الأفلام والمسلسلات والبرامج الوثائقية الأصلية من Netflix. شاهد على أي جهاز، في أي وقت، وبأعلى جودة ممكنة.",
+    "related": [ "disney", "crunchyroll", "entertainment-bundle" ],
+    "options": {
+      "1_month": {
+        "title": "شهر واحد",
+        "price": 50
+      },
+      "2_months": {
+        "title": "شهرين",
+        "price": 90
+      },
+      "3_months": {
+        "title": "3 شهور",
+        "price": 130
+      }
+    }
+  },
+  "disney": {
+    "id": "disney",
+    "title": "اشتراك ديزني بلس",
+    "price": 39,
+    "image": "./images/disney.png",
+    "shortDescription": "عالم من الترفيه لكل العائلة",
+    "fullDescription": "عالم من الترفيه من Disney, Pixar, Marvel, Star Wars, و National Geographic. احصل على أحدث الإصدارات، والكلاسيكيات الخالدة، والأعمال الأصلية الحصرية، كل ذلك في مكان واحد.",
+    "related": [ "netflix", "crunchyroll", "entertainment-bundle" ],
+    "options": {
+      "1_month": {
+        "title": "شهر واحد",
+        "price": 39
+      },
+      "2_months": {
+        "title": "شهرين",
+        "price": 75
+      },
+      "3_months": {
+        "title": "3 شهور",
+        "price": 105
+      }
+    }
+  },
+  "crunchyroll": {
+    "id": "crunchyroll",
+    "title": "اشتراك كرانشي رول",
+    "price": 50,
+    "image": "./images/crunshyyyy.png",
+    "shortDescription": "أكبر مكتبة للأنمي في العالم",
+    "fullDescription": "أكبر مكتبة للأنمي في العالم. شاهد أحدث الحلقات بعد ساعة من بثها في اليابان. استمتع بآلاف الحلقات من مسلسلاتك المفضلة بدون إعلانات وبجودة عالية.",
+    "related": [ "netflix", "disney", "entertainment-bundle" ],
+    "options": {
+      "1_month": {
+        "title": "شهر واحد",
+        "price": 50
+      },
+      "2_months": {
+        "title": "شهرين",
+        "price": 90
+      },
+      "3_months": {
+        "title": "3 شهور",
+        "price": 110
+      }
+    }
+  },
+  "gamepass": {
+    "id": "gamepass",
+    "title": "اشتراك Game Pass Ultimate",
+    "price": 220,
+    "image": "./images/Xbox.png",
+    "shortDescription": "مئات الألعاب عالية الجودة",
+    "fullDescription": "احصل على وصول غير محدود إلى مكتبة ضخمة تضم مئات الألعاب عالية الجودة على الكونسول والكمبيوتر الشخصي. استمتع بكل حصريات Xbox من اليوم الأول للإصدار، بالإضافة إلى اشتراك EA Play بدون تكلفة إضافية.",
+    "platform": "microsoft",
+    "related": [ "minecraft", "gta" ],
+    "options": {
+      "1_month": {
+        "title": "شهر واحد",
+        "price": 220
+      }
+    }
+  },
+  "entertainment-bundle": {
+    "id": "entertainment-bundle",
+    "title": "باقة الترفيه (Netflix + Crunchyroll)",
+    "price": 85,
+    "image": "./images/bundle.png",
+    "shortDescription": "Netflix شهر + Crunchyroll شهر",
+    "fullDescription": "وفر أكثر مع باقة الترفيه! احصل على اشتراك لمدة شهر كامل في كل من Netflix و Crunchyroll بسعر مخفض. استمتع بأفضل الأفلام والمسلسلات وأضخم مكتبة للأنمي في باقة واحدة.",
+    "badges": [ "توفير" ],
+    "related": [ "netflix", "crunchyroll", "disney" ],
+    "options": {
+      "1_month": {
+        "title": "شهر واحد",
+        "price": 85
+      }
+    }
+  },
+  "valorant475": {
+    "id": "valorant475",
+    "title": "475 Valorant Points",
+    "price": 270,
+    "image": "./images/reyna.png",
+    "shortDescription": "شحن 475 نقطة فالورانت",
+    "fullDescription": "اشحن حسابك في لعبة فالورانت بـ 475 نقطة. استخدمها لشراء سكنات الأسلحة، Battle Pass، أو أي عناصر تجميلية أخرى داخل اللعبة.",
+    "platform": "riot",
+    "related": [ "valorant1000", "valorant2050" ],
+    "specs": "<h3>متطلبات تشغيل VALORANT</h3><ul><li><strong>نظام التشغيل:</strong> Windows 7/8/10 64-Bit</li><li><strong>المعالج:</strong> Intel Core 2 Duo E8400 / AMD Athlon 200GE</li><li><strong>الذاكرة العشوائية (RAM):</strong> 4 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> Intel HD 4000 / Radeon R5 200</li></ul>"
+  },
+  "valorant1000": {
+    "id": "valorant1000",
+    "title": "1000 Valorant Points",
+    "price": 510,
+    "image": "./images/reyna.png",
+    "shortDescription": "شحن 1000 نقطة فالورانت",
+    "fullDescription": "عزز تجربتك في فالورانت بـ 1000 نقطة. هذه الباقة تمنحك المرونة الكافية للحصول على العناصر التي ترغب بها داخل اللعبة.",
+    "badges": [ "Bestseller" ],
+    "platform": "riot",
+    "related": [ "valorant475", "valorant2050", "valorant3650" ],
+    "specs": "<h3>متطلبات تشغيل VALORANT</h3><ul><li><strong>نظام التشغيل:</strong> Windows 7/8/10 64-Bit</li><li><strong>المعالج:</strong> Intel Core 2 Duo E8400 / AMD Athlon 200GE</li><li><strong>الذاكرة العشوائية (RAM):</strong> 4 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> Intel HD 4000 / Radeon R5 200</li></ul>"
+  },
+  "valorant2050": {
+    "id": "valorant2050",
+    "title": "2050 Valorant Points",
+    "price": 990,
+    "image": "./images/reyna.png",
+    "shortDescription": "شحن 2050 نقطة فالورانت",
+    "fullDescription": "احصل على 2050 نقطة فالورانت لتتمكن من شراء حزم السكنات المميزة أو تجهيز شخصياتك بأفضل الإضافات التجميلية.",
+    "badges": [ "Bestseller" ],
+    "platform": "riot",
+    "related": [ "valorant1000", "valorant3650", "valorant5350" ],
+    "specs": "<h3>متطلبات تشغيل VALORANT</h3><ul><li><strong>نظام التشغيل:</strong> Windows 7/8/10 64-Bit</li><li><strong>المعالج:</strong> Intel Core 2 Duo E8400 / AMD Athlon 200GE</li><li><strong>الذاكرة العشوائية (RAM):</strong> 4 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> Intel HD 4000 / Radeon R5 200</li></ul>"
+  },
+  "valorant3650": {
+    "id": "valorant3650",
+    "title": "3650 Valorant Points",
+    "price": 1730,
+    "image": "./images/reyna.png",
+    "shortDescription": "شحن 3650 نقطة فالورانت",
+    "fullDescription": "باقة كبيرة من نقاط فالورانت تتيح لك حرية واسعة في الاختيار من بين أفضل العناصر والمجموعات الحصرية داخل اللعبة.",
+    "platform": "riot",
+    "related": [ "valorant2050", "valorant5350", "valorant11000" ],
+    "specs": "<h3>متطلبات تشغيل VALORANT</h3><ul><li><strong>نظام التشغيل:</strong> Windows 7/8/10 64-Bit</li><li><strong>المعالج:</strong> Intel Core 2 Duo E8400 / AMD Athlon 200GE</li><li><strong>الذاكرة العشوائية (RAM):</strong> 4 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> Intel HD 4000 / Radeon R5 200</li></ul>"
+  },
+  "valorant5350": {
+    "id": "valorant5350",
+    "title": "5350 Valorant Points",
+    "price": 2430,
+    "image": "./images/reyna.png",
+    "shortDescription": "شحن 5350 نقطة فالورانت",
+    "fullDescription": "وفر أكثر مع باقة 5350 نقطة. هذه هي فرصتك للحصول على كل ما تحلم به في فالورانت من سكنات نادرة وعناصر مميزة.",
+    "platform": "riot",
+    "related": [ "valorant3650", "valorant11000" ],
+    "specs": "<h3>متطلبات تشغيل VALORANT</h3><ul><li><strong>نظام التشغيل:</strong> Windows 7/8/10 64-Bit</li><li><strong>المعالج:</strong> Intel Core 2 Duo E8400 / AMD Athlon 200GE</li><li><strong>الذاكرة العشوائية (RAM):</strong> 4 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> Intel HD 4000 / Radeon R5 200</li></ul>"
+  },
+  "valorant11000": {
+    "id": "valorant11000",
+    "title": "11000 Valorant Points",
+    "price": 4880,
+    "image": "./images/reyna.png",
+    "shortDescription": "شحن 11000 نقطة فالورانت",
+    "fullDescription": "الباقة الأكبر والأكثر توفيراً! 11000 نقطة تضمن لك الحصول على أندر المجموعات والعناصر داخل اللعبة لتتميز عن الجميع.",
+    "platform": "riot",
+    "related": [ "valorant5350", "valorant3650" ],
+    "specs": "<h3>متطلبات تشغيل VALORANT</h3><ul><li><strong>نظام التشغيل:</strong> Windows 7/8/10 64-Bit</li><li><strong>المعالج:</strong> Intel Core 2 Duo E8400 / AMD Athlon 200GE</li><li><strong>الذاكرة العشوائية (RAM):</strong> 4 GB</li><li><strong>بطاقة الرسومات (GPU):</strong> Intel HD 4000 / Radeon R5 200</li></ul>"
+  },
+  "steam20k": {
+    "id": "steam20k",
+    "title": "20 ألف Steam Points",
+    "price": 255,
+    "image": "./images/steam.png",
+    "shortDescription": "لتخصيص بروفايلك بالكامل",
+    "fullDescription": "استخدم 20,000 نقطة لشراء خلفيات، أيقونات، وتخصيصات فريدة لتميز نفسك بين اللاعبين. <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "platform": "steam",
+    "related": [ "steam50k", "steamGift5" ]
+  },
+  "steam50k": {
+    "id": "steam50k",
+    "title": "50 ألف Steam Points",
+    "price": 490,
+    "image": "./images/steam.png",
+    "shortDescription": "باقة 50,000 نقطة لحسابك",
+    "fullDescription": "باقة 50,000 نقطة تمنحك حرية أكبر في تزيين وتخصيص حسابك على ستيم بكل ما هو مميز. <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "platform": "steam",
+    "related": [ "steam20k", "steamGift10" ]
+  },
+  "steamGift5": {
+    "id": "steamGift5",
+    "title": "بطاقة هدايا ستيم 5$",
+    "price": 250,
+    "image": "./images/steam.png",
+    "shortDescription": "اشحن محفظتك بـ 5 دولارات",
+    "fullDescription": "اشحن محفظة ستيم الخاصة بك بـ 5 دولارات! هذه البطاقة العالمية تتيح لك شراء الألعاب، الإضافات، والعناصر من متجر ستيم بسهولة وأمان. <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "platform": "steam",
+    "related": [ "steamGift10", "steamGift20" ]
+  },
+  "steamGift10": {
+    "id": "steamGift10",
+    "title": "بطاقة هدايا ستيم 10$",
+    "price": 500,
+    "image": "./images/steam.png",
+    "shortDescription": "أضف 10 دولارات لرصيدك",
+    "fullDescription": "أضف 10 دولارات إلى رصيدك في ستيم! هدية مثالية لنفسك أو لصديق، تفتح لك عالمًا من الألعاب الرائعة على منصة ستيم. <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "platform": "steam",
+    "related": [ "steamGift5", "steamGift20", "steamGift50" ]
+  },
+  "steamGift20": {
+    "id": "steamGift20",
+    "title": "بطاقة هدايا ستيم 20$",
+    "price": 1000,
+    "image": "./images/steam.png",
+    "shortDescription": "عزز مكتبة ألعابك الآن",
+    "fullDescription": "عزز مكتبة ألعابك! مع بطاقة 20 دولار، يمكنك الحصول على أحدث الألعاب أو الإضافات التي طالما رغبت بها. <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "platform": "steam",
+    "related": [ "steamGift10", "steamGift50" ]
+  },
+  "steamGift50": {
+    "id": "steamGift50",
+    "title": "بطاقة هدايا ستيم 50$",
+    "price": 2500,
+    "image": "./images/steam.png",
+    "shortDescription": "باقة سخية لعشاق الألعاب",
+    "fullDescription": "باقة سخية لعشاق الألعاب! 50 دولارًا في محفظة ستيم تمنحك القدرة على شراء عدة ألعاب ضخمة أو الاستثمار في العناصر داخل اللعبة. <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "badges": [ "Bestseller" ],
+    "platform": "steam",
+    "related": [ "steamGift20", "steamGift100" ]
+  },
+  "steamGift100": {
+    "id": "steamGift100",
+    "title": "بطاقة هدايا ستيم 100$",
+    "price": 5000,
+    "image": "./images/steam.png",
+    "shortDescription": "الهدية المثالية لأي لاعب",
+    "fullDescription": "الهدية المثالية لأي لاعب! بطاقة 100 دولار تضمن لك الحصول على أي لعبة تريدها، والمشاركة في التخفيضات الكبرى دون تردد. <br><br><strong>المنصة:</strong> <img src='./images/steam.png' class='platform-icon-description' alt='Steam Icon'> <strong>Steam</strong>",
+    "platform": "steam",
+    "related": [ "steamGift50", "gta" ]
+  }
+}
